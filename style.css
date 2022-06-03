@@ -1,0 +1,58 @@
+.HeaderIndex {
+  display: flex;
+  justify-content: space-between;
+  font-family: fantasy;
+  border-bottom: 10px solid #dbdbdb;
+  font-size: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.MainIndex {
+  display: flex;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 25px;
+}
+
+.Artiklar {
+  display: flex;
+  width: 675px;
+  flex-direction: column;
+  padding-left: 5%;
+  padding-top: 5%;
+  border-right: 10px solid #dbdbdb;
+  font-weight: bold;
+}
+
+.Biancas_Romans {
+  border-bottom: 10px solid #dbdbdb;
+}
+.Vaccin {
+  border-bottom: 10px solid #dbdbdb;
+  padding-top: 50px;
+}
+
+.Reklam {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 5%;
+  width: 40%;
+}
+
+.NoobByrån {
+  margin-top: 10%;
+}
+
+.FetaHotellet {
+  margin-top: 10%;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+footer {
+  display: flex;
+  align-items: center;
+}

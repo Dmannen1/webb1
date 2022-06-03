@@ -1,0 +1,18 @@
+.HeaderBianca {
+  display: flex;
+  justify-content: space-between;
+  font-family: fantasy;
+  border-bottom: 10px solid #dbdbdb;
+  font-size: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+.MainBianca {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 25px;
+  width: 60%;
+}
